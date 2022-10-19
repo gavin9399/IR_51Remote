@@ -1,5 +1,5 @@
 /*====================================================
-File    : STC8G_main.c
+File    : main.c
 Project : 
 Version : V1.0
 Date    : 2022.8.7
@@ -8,7 +8,7 @@ Company : ZJOU
 Comments: 
     PCB: 
 IDE     :
-Chip type           : STC8A8K64S4A12
+Chip type           : STC8G1K17
 Program type        : Application
 Clock frequency     : 30.000000 MHz
 Memory model        : Small
